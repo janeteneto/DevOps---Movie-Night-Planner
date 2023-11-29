@@ -1,4 +1,4 @@
-# DevOps - Movie Night Planner Project
+# Movie Night Planner Project
 
 **This repo is a detailed documentation of processes used in the DevOps lifecycle of the Movie Night Planner Project. This document includes the following contents:**
 - Project Description
