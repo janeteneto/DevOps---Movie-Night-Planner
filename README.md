@@ -9,7 +9,7 @@
 
 The Movie Night Project had as its primary goal to provide a website that allows users to plan their selected movies' streaming time. The website extracts data from the TMdb database service and the JustWatch database that stores multiple data points for each title (movie/TV show). The different API Routes help to make requests to receive the data as efficiently as possible. This is how the home page of the website looks like:
 
-  ![2023-11-07](https://github.com/janeteneto/DevOps---Movie-Night-Planner/assets/129942042/4d49a979-330a-4f84-8fcd-33c228f4666b)
+ ![image](https://github.com/janeteneto/DevOps---Movie-Night-Planner/assets/129942042/a0eba926-2cc7-48a9-925a-876c6a9f6a57)
 
 The website has a few core functionalities:
 - The user can register an account
@@ -41,6 +41,7 @@ For the cloud service, I selected **AWS** for the same reasons, specifically, th
 - Command to install and enable Java in the user data
 
 5. Attach Elastic IP address to the instance
+
 **6. Build Gitlab pipeline:**
 
 1. Define stages:
